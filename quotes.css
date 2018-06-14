@@ -1,0 +1,36 @@
+
+
+.col {
+  background-color: rgb(0, 200, 204);
+}
+
+.color{
+  color: rgb(0, 200, 204);
+}
+
+.name{
+  margin-top: 50px;
+  font-family: helvetica;
+  color: rgb(204, 153, 0);
+}
+
+.quote {
+  background-color: #ECF0F1;
+  margin: 0 auto;
+  margin-top: 12%;
+  padding: 40px;
+  border-radius: 4px;
+}
+
+.socialmedia a {
+  background-color: rgb(0, 200, 204);
+}
+
+a {
+  color: white;
+}
+
+p {
+  color: rgb(204, 153, 0);
+  font-size: 20px;
+}
